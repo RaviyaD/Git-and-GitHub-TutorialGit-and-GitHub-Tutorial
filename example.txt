@@ -11,4 +11,12 @@ Hi bois & grls
 <PRICE>10.90</PRICE>
 <YEAR>1985</YEAR>
 </CD>
+<CD>
+<TITLE>The dock of the bay</TITLE>
+<ARTIST>Otis Redding</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>Stax Records</COMPANY>
+<PRICE>7.90</PRICE>
+<YEAR>1968</YEAR>
+</CD>
 </CATALOG>
