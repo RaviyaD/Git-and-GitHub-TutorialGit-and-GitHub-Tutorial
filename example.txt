@@ -11,4 +11,12 @@ Hi bois & grls
 <PRICE>10.90</PRICE>
 <YEAR>1985</YEAR>
 </CD>
+<CD>
+<TITLE>Picture book</TITLE>
+<ARTIST>Simply Red</ARTIST>
+<COUNTRY>EU</COUNTRY>
+<COMPANY>Elektra</COMPANY>
+<PRICE>7.20</PRICE>
+<YEAR>1985</YEAR>
+</CD>
 </CATALOG>
